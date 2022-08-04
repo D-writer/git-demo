@@ -12,5 +12,7 @@ hello dxx! hello git!
 hello dxx! hello git!
 hello dxx! hello git!
 hello dxx! hello git!
+<<<<<<< HEAD
 hello dxx! hello git!master test
-hello dxx! hello git!
+hello dxx! hello git! hot-fix test
+>>>>>>> hotfix
