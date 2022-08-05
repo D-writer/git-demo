@@ -16,3 +16,4 @@ hello dxx! hello git!
 hello dxx! hello git!master test
 hello dxx! hello git! hot-fix test
 >>>>>>> hotfix
+this is a file in tht github
